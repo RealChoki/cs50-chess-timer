@@ -8,7 +8,7 @@ export let presets = [
     second: 0,
     incrementH: 0,
     incrementM: 0,
-    incrementS: 0,
+    incrementS: 0
   },
   {
     label: "1 min | 1 sec",
@@ -28,7 +28,7 @@ export let presets = [
     second: 0,
     incrementH: 0,
     incrementM: 0,
-    incrementS: 1,
+    incrementS: 1
   },
   {
     label: "3 min",
@@ -46,49 +46,49 @@ export let presets = [
     hours: 0,
     minutes: 3,
     second: 0,
-    incrementH: "",
-    incrementM: "",
-    incrementS: 2,
+    incrementH: 0,
+    incrementM: 0,
+    incrementS: 2
   },
   {
     label: "5 min",
     id: "5 min",
-    hours: "",
+    hours: 0,
     minutes: 5,
-    second: "",
-    incrementH: "",
-    incrementM: "",
-    incrementS: "",
+    second: 0,
+    incrementH: 0,
+    incrementM: 0,
+    incrementS: 0
   },
   {
     label: "5 min | 5 sec",
     id: "5 min | 5 sec",
-    hours: "",
+    hours: 0,
     minutes: 5,
-    second: "",
-    incrementH: "",
-    incrementM: "",
-    incrementS: 5,
+    second: 0,
+    incrementH: 0,
+    incrementM: 0,
+    incrementS: 5
   },
   {
     label: "10 min",
     id: "10 min",
-    hours: "",
+    hours: 0,
     minutes: 10,
-    second: "",
-    incrementH: "",
-    incrementM: "",
-    incrementS: "",
+    second: 0,
+    incrementH: 0,
+    incrementM: 0,
+    incrementS: 0
   },
   {
     label: "15 min | 10 sec",
     id: "15 min | 10 sec",
-    hours: "",
+    hours: 0,
     minutes: 15,
-    second: "",
-    incrementH: "",
-    incrementM: "",
-    incrementS: 10,
+    second: 0,
+    incrementH: 0,
+    incrementM: 0,
+    incrementS: 10
   },
   {
     label: "20 min",
@@ -98,7 +98,7 @@ export let presets = [
     second: 0,
     incrementH: 0,
     incrementM: 0,
-    incrementS: 0,
+    incrementS: 0
   },
   {
     label: "30 min",
@@ -108,6 +108,6 @@ export let presets = [
     second: 0,
     incrementH: 0,
     incrementM: 0,
-    incrementS: 0,
+    incrementS: 0
   },
 ];
