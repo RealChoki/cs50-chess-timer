@@ -1,5 +1,5 @@
 # Chess Clock
-#### Video Demo:  <URL HERE>
+#### Video Demo: https://www.youtube.com/watch?v=BAFZa2CSgMU&t=31s
 #### Description: Chess Clock is a digital chess timer app designed for customization. Built using JavaScript, HTML, CSS, and utilizing localStorage, users can create and manage time presets, adjust individual player times, and make on-the-fly changes. This app simplifies chess game timing, offering flexibility for various game styles and settings.
 
 #### Folder (root)
